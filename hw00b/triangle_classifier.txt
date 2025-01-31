@@ -1,0 +1,11 @@
+What challenges did you encounter with this assignment, if any? 
+I only used C++ and Java before, this is my first time using Python. I spent time learning basic stuff.
+
+What did you think about the requirements specification for this assignment?
+The requirements are clear, I know exactly what to do and submit.
+
+What challenges did you encounter with the tools?
+Not really hard, but at first I chose Pytest for testing. Later found unitTest is built-in Python, easier to start, so switched.
+
+Describe the criteria you used to determine that you had sufficient test cases, i.e. how did you know you were done?
+I think my tests are enough. I did similar checks in previous work and last semester’s web programming class.
